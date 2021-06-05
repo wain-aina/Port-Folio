@@ -18,4 +18,4 @@ All you need to do is:
 4. Once you are in github, clone the code using git clone and open the files with your preferred code editor.
 
 ###Link to site on git hub pages
-<a href="https://wain-aina.github.io/Portof/">Link to my gh-page site</a>
+<a href="https://wain-aina.github.io/port-Folio/">Link to my gh-page site</a>
